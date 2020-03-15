@@ -1,7 +1,7 @@
 
 """ Title: SVM from Scratch, source code
-Author: sentdex
-Availability: https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v """
+    Author: sentdex
+    Availability: https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v """
 
 import numpy as np
 import matplotlib.pyplot as plt
